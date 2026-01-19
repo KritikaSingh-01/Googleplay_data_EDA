@@ -16,3 +16,10 @@ Exploratory Data Analysis (EDA) on Google Play Store data using Python.
 
 ## Dataset
 Google Play Store dataset
+
+## Key Insights
+- Ratings are generally high, with most apps clustered between 4.0–4.5.
+- Reviews and installs show a strong right-skewed distribution.
+- Game and Communication categories dominate total installs.
+- Family category contains the highest number of apps.
+- High-install apps tend to have more stable ratings.
