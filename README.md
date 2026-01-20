@@ -17,6 +17,14 @@ Exploratory Data Analysis (EDA) on Google Play Store data using Python.
 ## Dataset
 Google Play Store dataset
 
+## EDA Performed
+
+- Analyzed distribution of app ratings and review counts
+- Studied category-wise and content rating-wise app distribution
+- Examined total installs across categories to identify high-demand segments
+- Compared ratings and installs to understand user preference patterns
+- Performed correlation analysis on numerical features
+  
 ## Key Insights
 - Ratings are generally high, with most apps clustered between 4.0–4.5.
 - Reviews and installs show a strong right-skewed distribution.
