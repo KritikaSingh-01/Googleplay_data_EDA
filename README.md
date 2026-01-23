@@ -14,9 +14,6 @@ Exploratory Data Analysis (EDA) on Google Play Store data using Python.
 - Pandas, NumPy
 - Matplotlib, Seaborn
 
-## Dataset
-Google Play Store dataset
-
 ## EDA Performed
 
 - Analyzed distribution of app ratings and review counts
